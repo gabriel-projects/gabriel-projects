@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gabriel-ribeiro96" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-ribeiro96?trk=profile-badge">Gabriel Ribeiro Rossi</a></div>
+
+<a href="https://br.linkedin.com/in/gabriel-ribeiro96">
+  <img src="https://your-api.com/linkedin-card.png" />
+</a>
+
+<a href="https://br.linkedin.com/in/gabriel-ribeiro96">
+  <img src="https://your-image-host/linkedin-card.png" width="350"/>
+</a>
