@@ -1,27 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Gabriel Rossi 👋</h1>
 
+<p align="center">
+.NET Backend Developer focused on building scalable, secure and cloud-native systems.
+</p>
+
+---
+
+## 🧠 About Me
+
+- 💼 Backend Developer specialized in **C# / .NET**
+- ☁️ Experience with **Azure, APIs, Distributed Systems**
+- 🧱 Strong focus on **Clean Architecture, DDD, SOLID**
+- 🔁 Experience with **Queues, Messaging, Background Processing**
+- 🚀 Building projects to reach an **international opportunity**
+
+---
+
+## 🔗 Connect with me
+
+<p align="center">
+  <a href="https://br.linkedin.com/in/gabriel-ribeiro96">
+    <img src="./logo linkedin.png" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:gabriel.note96@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+### 🗄️ Databases & Messaging
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
+
+### 🧩 Architecture & Practices
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- SOLID Principles
+- CQRS
+- Event-Driven Architecture
+- Test-Driven Development (TDD)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Highlight Projects
 <!--
-**gabriel-projects/gabriel-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔹 **TaskQueueProcessor** → Async processing with queues, retries, DLQ
+- 🔹 **SmartInventory** → Deep dive into EF Core & LINQ optimization
+- 🔹 **Hybrid Cache System** → Memory + Redis with fallback strategy
+- 🔹 **Observability Stack** → Prometheus, Grafana, Serilog, OpenTelemetry
 -->
+---
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gabriel-ribeiro96" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-ribeiro96?trk=profile-badge">Gabriel Ribeiro Rossi</a></div>
+## 🌍 Goal
 
-<a href="https://br.linkedin.com/in/gabriel-ribeiro96" target="_blank">
-  <img src="./logo linkedin.png" />
-</a>
+Building high-quality systems and continuously improving to land a **global .NET opportunity**.
 
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-Gabriel%20Rossi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-ribeiro96)
+---
