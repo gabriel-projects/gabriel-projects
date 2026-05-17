@@ -1,25 +1,24 @@
 <h1 align="center">Hi, I'm Gabriel Rossi 👋</h1>
 
 <p align="center">
-.NET Backend Developer focused on building scalable, secure and cloud-native systems.
+.NET Backend Developer focused on scalable, cloud-native and high-performance distributed systems.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💼 Backend Developer specialized in **C# / .NET**
-- ☁️ Experience with **Azure, APIs, Distributed Systems**
-- 🧱 Strong focus on **Clean Architecture, DDD, SOLID**
-- 🔁 Experience with **Queues, Messaging, Background Processing**
-- 🚀 Building projects to reach an **international opportunity**
+- 🧱 Strong focus on Clean Architecture, DDD, SOLID and maintainable systems
+- 📈 Interested in Observability, Performance and Resilient Architectures
+- 🔁 Experience with Messaging, Queues and Event-Driven Systems
+- ☁️ Building cloud-native applications using Azure and Docker
 
 ---
 
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://br.linkedin.com/in/gabriel-ribeiro96">
+  <a href="https://br.linkedin.com/in/gabrielribeiro-dotnet">
     <img src="./logo linkedin.png" width="300"/>
   </a>
 </p>
