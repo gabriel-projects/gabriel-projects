@@ -69,7 +69,7 @@
 -->
 ---
 
-## 🌍 Goal
+### 🌍 Goal
 
 Building high-quality systems and continuously improving to land a **global .NET opportunity**.
 
