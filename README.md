@@ -51,11 +51,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-projects&layout=compact&theme=tokyonight)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-projects&layout=compact&theme=tokyonight" />
+</p>
+
+https://streak-stats.demolab.com?user=gabriel-projects&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats
+
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=gabriel-projects&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 </p>
 
 ---
