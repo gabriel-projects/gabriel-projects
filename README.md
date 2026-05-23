@@ -14,8 +14,8 @@
 - 📈 Interested in Observability, Performance and Resilient Architectures
 - 🔁 Experience with Messaging, Queues and Event-Driven Systems
 - ☁️ Building cloud-native applications using Azure and Docker
-- 📫 Always learning new technologies
-- 💼 Reach me at: https://www.linkedin.com/in/gabrielribeiro-dotnet
+- 📚 Continuously learning and exploring modern technologies
+- 💼 Connect with me on LinkedIn: www.linkedin.com/in/gabrielribeiro-dotnet
 
 ---
 
