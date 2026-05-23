@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Gabriel Rossi 👋</h1>
+<div align="center">
 
-<p align="center">
-.NET Backend Developer focused on scalable, cloud-native and high-performance distributed systems.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gabriel+Ribeiro!+👋;.NET+Backend+Developer;C%23+%7C+.NET+%7C+Azure+%7C+SQL)](https://git.io/typing-svg)
+
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=header)](https://github.com/kyechan99/capsule-render)
+
+</div>
 
 ---
 
