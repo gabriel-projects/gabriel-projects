@@ -55,13 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-projects&layout=compact&theme=tokyonight" />
-</p>
-
-https://streak-stats.demolab.com?user=gabriel-projects&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats
-
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=gabriel-projects&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=gabriel-projects&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 </p>
 
 ---
