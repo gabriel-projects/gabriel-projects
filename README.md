@@ -17,23 +17,6 @@
 - 📫 Always learning new technologies
 - 💼 Reach me at: https://www.linkedin.com/in/gabrielribeiro-dotnet
 
----
-
-## 🔗 Connect with me
-
-<p align="center">
-  <a href="https://br.linkedin.com/in/gabrielribeiro-dotnet">
-    <img src="./logo linkedin.png" width="300"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:gabriel.note96@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
