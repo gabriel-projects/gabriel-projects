@@ -51,10 +51,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-projects&layout=compact&theme=tokyonight)
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabriel-projects&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
