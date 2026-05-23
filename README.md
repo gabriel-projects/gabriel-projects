@@ -58,10 +58,9 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabriel-projects&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
----
-
-### 🚀 Highlight Projects
 <!--
+---
+### 🚀 Highlight Projects
 - 🔹 **TaskQueueProcessor** → Async processing with queues, retries, DLQ
 - 🔹 **SmartInventory** → Deep dive into EF Core & LINQ optimization
 - 🔹 **Hybrid Cache System** → Memory + Redis with fallback strategy
