@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
 - 🧱 Strong focus on Clean Architecture, DDD, SOLID and maintainable systems
 - 📈 Interested in Observability, Performance and Resilient Architectures
@@ -17,8 +17,9 @@
 - 📫 Always learning new technologies
 - 💼 Reach me at: https://www.linkedin.com/in/gabrielribeiro-dotnet
 
+---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ### 👨‍💻 Backend
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
@@ -35,6 +36,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
 
+---
+
 ### 🧩 Architecture & Practices
 - Clean Architecture
 - Domain-Driven Design (DDD)
@@ -45,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" />
@@ -57,7 +60,7 @@
 
 ---
 
-## 🚀 Highlight Projects
+### 🚀 Highlight Projects
 <!--
 - 🔹 **TaskQueueProcessor** → Async processing with queues, retries, DLQ
 - 🔹 **SmartInventory** → Deep dive into EF Core & LINQ optimization
